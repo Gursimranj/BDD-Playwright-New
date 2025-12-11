@@ -1,0 +1,16 @@
+{
+  "name": "demoprojectplaywright",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test:bdd": "playwright-bdd test"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@playwright/test": "^1.57.0",
+    "playwright-bdd": "^8.4.2"
+  }
+}

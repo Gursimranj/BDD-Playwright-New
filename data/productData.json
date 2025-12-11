@@ -1,0 +1,12 @@
+{
+  "productsToAdd": [
+    {
+      "name": "Sauce Labs Backpack",
+      "addToCartSelector": "[data-test=\"add-to-cart-sauce-labs-backpack\"]"
+    },
+    {
+      "name": "Sauce Labs Bike Light",
+      "addToCartSelector": "[data-test=\"add-to-cart-sauce-labs-bike-light\"]"
+    }
+  ]
+}

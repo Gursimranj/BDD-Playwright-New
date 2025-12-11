@@ -1,0 +1,10 @@
+{
+    "customer": {
+        "firstName": "Test",
+        "lastName": "User",
+        "postalCode": "90001"
+    },
+    "confirmation": {
+        "message": "Thank you for your order!"
+    }
+}

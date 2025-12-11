@@ -1,0 +1,20 @@
+{
+  "sortOptions": {
+    "nameAToZ": {
+      "visibleText": "Name (A to Z)",
+      "value": "az"
+    },
+    "nameZToA": {
+      "visibleText": "Name (Z to A)",
+      "value": "za"
+    },
+    "priceLowToHigh": {
+      "visibleText": "Price (low to high)",
+      "value": "lohi"
+    },
+    "priceHighToLow": {
+      "visibleText": "Price (high to low)",
+      "value": "hilo"
+    }
+  }
+}
