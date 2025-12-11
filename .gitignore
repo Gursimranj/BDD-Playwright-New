@@ -1,0 +1,22 @@
+# Playwright reports
+playwright-report/
+test-results/
+
+# Node modules
+node_modules/
+
+# Environment files
+.env
+
+# OS/System files
+.DS_Store
+
+# Logs
+*.log
+
+# BDD Generated test files
+.features-gen/
+
+# IDE specific
+.vscode/
+.idea/
